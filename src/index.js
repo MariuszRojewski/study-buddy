@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from 'views/App';
 
-console.log('Hello World');
+console.log('Hello World 2022');
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
